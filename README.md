@@ -20,7 +20,7 @@ FREE FOR ALL
 
 ## Installation
 
-rm -rf DMC-FILE-CLONE
+rm -rf EXTRACT
 
 git clone https://github.com/DEVIL-MAY-CRY-444/EXTRACT
 
